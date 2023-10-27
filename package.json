@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  },
+  "scripts": {
+    "dev": "sass --watch scss/bootstrap.scss:dist/bootstrap.min.css"
+  }
+  
+}
